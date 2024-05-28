@@ -14,6 +14,8 @@ function Footer() {
                                         <span>e</span>-shopper
                                     </h2>
                                     <p>
+                                        {/* Phuc THANH POOOOOOOOOOOOOOOOO */}
+                                        
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do
                                         eiusmod tempor
                                     </p>
